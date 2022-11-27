@@ -1,7 +1,7 @@
 Hi 👋 My name is Tyler
 ======================
 
-Backend Engineer and Web Developer
+Golang Engineer and Web Developer
 ----------------------------------
 
 I've been coding for the last 8-9 years. I started in high school and pursued a Computer Science degree at the University of Cape Town. Currently, I am working as a Golang developer as well as on some web development on the side.
