@@ -7,18 +7,17 @@ Backend Engineer and Web Developer
 I've been coding for the last 8-9 years. I started in high school and pursued a Computer Science degree at the University of Cape Town. Currently, I am working as a Golang developer as well as on some web development on the side.
 
 * 🌍  I'm based in South Africa
-* 🖥️  See my portfolio at [Tyler Pillay](http://tylerpillay.co.za)
 * ✉️  You can contact me at [tylerpillay207@gmail.com](mailto:tylerpillay207@gmail.com)
-* 🚀  I'm currently working on [Atomikon Industries portfolio site](http://atomikon.co.za)
-* 🧠  I'm learning React
+* 🚀  I'm currently working on a mobile application for a private client using React Native and AWS.
+* 🧠  I'm learning React Native
 * 🤝  I'm open to collaborating on open-source projects, web development, API development, and pretty much anything interesting!
 * ⚡  Tea is better than coffee and this is a hill I'm prepared to die on.
 
 ### Skills
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
@@ -55,3 +54,6 @@ I've been coding for the last 8-9 years. I started in high school and pursued a 
 Tyler-The-Creator/Tyler-The-Creator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<!-- * 🖥️  See my portfolio at [Tyler Pillay](http://tylerpillay.co.za) -->
+<!-- * 🚀  I'm currently working on [Atomikon Industries portfolio site](http://atomikon.co.za) -->
