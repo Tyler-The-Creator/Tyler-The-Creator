@@ -7,7 +7,7 @@ Full-stack engineer // Polyglot
 I've been coding for about a decade, professionally for over 4 years. I started in high school and pursued a Computer Science degree at the University of Cape Town. Currently, I am working as a senior developer where I am doing full-stack development, as well as on some web and mobile development on the side.
 
 * 🌍  I'm based in South Africa.
-* 🖥️  See my personal site at [Tyler Pillay](http://tylerpillay.co.za).
+* 🖥️  See my personal site [here](http://tylerpillay.co.za).
 * 🚀  I'm currently building a services-on-demand mobile application for a private client using React Native, Golang, AWS.
 * 🧠  I'm learning Flutter and Svelte.
 * 🤝  I'm open to collaborating on open-source projects, web development, API development, and pretty much anything interesting!
