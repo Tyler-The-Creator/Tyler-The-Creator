@@ -1,15 +1,15 @@
 Hi 👋 My name is Tyler
 ======================
 
-Golang Engineer and Web Developer
+Full-stack engineer // Polyglot
 ----------------------------------
 
-I've been coding for the last 8-9 years. I started in high school and pursued a Computer Science degree at the University of Cape Town. Currently, I am working as a Golang developer as well as on some web development on the side.
+I've been coding for about a decade, professionally for over 4 years. I started in high school and pursued a Computer Science degree at the University of Cape Town. Currently, I am working as a senior developer where I am doing full-stack development, as well as on some web and mobile development on the side.
 
-* 🌍  I'm based in South Africa
-* ✉️  You can contact me at [tylerpillay207@gmail.com](mailto:tylerpillay207@gmail.com)
-* 🚀  I'm currently working on a mobile application for a private client using React Native and AWS.
-* 🧠  I'm learning React Native
+* 🌍  I'm based in South Africa.
+* 🖥️  See my personal site at [Tyler Pillay](http://tylerpillay.co.za).
+* 🚀  I'm currently building a services-on-demand mobile application for a private client using React Native, Golang, AWS.
+* 🧠  I'm learning Flutter and Svelte.
 * 🤝  I'm open to collaborating on open-source projects, web development, API development, and pretty much anything interesting!
 * ⚡  Tea is better than coffee and this is a hill I'm prepared to die on.
 
@@ -55,5 +55,6 @@ Tyler-The-Creator/Tyler-The-Creator is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 
-<!-- * 🖥️  See my portfolio at [Tyler Pillay](http://tylerpillay.co.za) -->
+<!-- * 🖥️  See my personal site at [Tyler Pillay](http://tylerpillay.co.za) -->
+<!-- * ✉️  You can contact me at [tylerpillay207@gmail.com](mailto:tylerpillay207@gmail.com) -->
 <!-- * 🚀  I'm currently working on [Atomikon Industries portfolio site](http://atomikon.co.za) -->
